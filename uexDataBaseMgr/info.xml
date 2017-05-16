@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uexplugins>
+    <plugin
+        uexName="uexDataBaseMgr" version="3.0.2" build="1">
+        <info>1:事物子线程处理。</info>
+        <build>0:数据库功能插件</build>
+    </plugin>
+</uexplugins>
